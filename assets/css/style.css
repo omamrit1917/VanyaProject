@@ -72,7 +72,6 @@ body {
 
 #login_container {
     display: flex;
-    justify-content: flex-start;
     width: 50%;
     height: 50%;
 }
@@ -90,7 +89,6 @@ body {
 
 #signup_container {
     display: flex;
-    justify-content: flex-end;
     width: 50%;
     height: 50%;
 }
