@@ -1,15 +1,9 @@
 /*Index Page */
 
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
 body {
     background-color: #00203f;
     font-size: 15px;
-    margin-bottom: 60px;
+    padding: 20px;
 }
 
 #menu {
