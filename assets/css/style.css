@@ -254,7 +254,7 @@ body {
 }
 
 .professional {
-    display: block;
+    display: inline-block;
     align-content: space-around;
     padding: 5px;
     margin: 10px;
