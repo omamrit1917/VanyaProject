@@ -344,6 +344,21 @@ body {
     padding: 15px;
 }
 
+#map_container {
+    overflow: hidden;
+    padding-bottom: 50%;
+    position: relative;
+    height: 0;
+}
+
+#map_container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
 #contactus_container {
     padding: 5px;
     width: 25%;
