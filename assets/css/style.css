@@ -334,6 +334,16 @@ body {
 
 /*Contact Us*/
 
+#findus_container {
+    display: grid;
+    width: 50%;
+    height: 50%;
+    border: 3px solid;
+    border-color: #f2f2f2;
+    margin: 10px;
+    padding: 15px;
+}
+
 #contactus_container {
     padding: 5px;
     width: 25%;
